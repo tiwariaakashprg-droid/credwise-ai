@@ -1,0 +1,84 @@
+BANKRAG LENDING POLICY KNOWLEDGE BASE
+
+SECTION: DEBT-TO-INCOME RATIO
+
+Debt-to-income ratio (DTI) measures the relationship between a borrower's
+monthly debt obligations and income. Higher DTI values may indicate greater
+repayment burden and should receive additional credit-risk review.
+
+Applications with elevated DTI should be assessed together with income,
+loan amount, employment history, and existing credit obligations.
+
+
+SECTION: CREDIT UTILIZATION
+
+Revolving credit utilization represents the proportion of available revolving
+credit currently being used. Elevated utilization may indicate financial
+pressure and can contribute to increased credit risk.
+
+Credit utilization should not be used as the sole basis for a lending decision.
+
+
+SECTION: CREDIT INQUIRIES
+
+Multiple recent credit inquiries may indicate that a borrower is seeking
+additional credit obligations.
+
+A high number of recent inquiries should trigger additional review together
+with the applicant's income, debt obligations, and overall credit profile.
+
+
+SECTION: DELINQUENCY HISTORY
+
+Previous delinquencies may indicate difficulty meeting past credit obligations.
+
+Recent or repeated delinquencies should receive additional risk review.
+Delinquency history should be evaluated together with the applicant's broader
+credit profile.
+
+
+SECTION: INCOME AND REPAYMENT CAPACITY
+
+Annual income is an important indicator of repayment capacity but should not
+be evaluated independently.
+
+Income should be considered together with debt-to-income ratio, requested loan
+amount, installment obligation, and existing credit exposure.
+
+
+SECTION: LOAN AMOUNT AND INSTALLMENT
+
+Larger loan amounts and higher installment obligations may increase repayment
+burden.
+
+The requested loan amount should be evaluated relative to borrower income,
+existing debt obligations, and overall repayment capacity.
+
+
+SECTION: EMPLOYMENT HISTORY
+
+Employment history can provide information about income stability.
+
+Short employment history may require additional review but should not by
+itself determine loan eligibility.
+
+
+SECTION: LOAN TERM
+
+Longer repayment terms may reduce monthly payment burden but extend the period
+of credit exposure.
+
+Loan term should therefore be evaluated together with loan amount,
+installment size, income, and overall borrower risk.
+
+
+SECTION: DECISION POLICY
+
+Credit-risk predictions are decision-support signals and should not be treated
+as automatic lending decisions.
+
+Applications identified as higher risk should undergo additional review.
+Model predictions should be accompanied by explainable risk factors and
+relevant policy evidence.
+
+No lending decision should be based solely on a single model feature.

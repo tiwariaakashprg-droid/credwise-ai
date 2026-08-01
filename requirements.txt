@@ -1,0 +1,17 @@
+streamlit
+pandas
+numpy
+scikit-learn
+xgboost
+torch
+torchvision
+shap
+joblib
+
+langchain
+langchain-community
+langchain-huggingface
+langchain-ollama
+
+sentence-transformers
+faiss-cpu
