@@ -1,6 +1,6 @@
-# BankRAG – Explainable AI Credit Risk & Loan Intelligence System
+# CredWise AI – Explainable AI Credit Risk & Loan Intelligence System
 
-BankRAG is an explainable AI-based credit-risk decision-support system that combines machine learning, SHAP explainability, Retrieval-Augmented Generation (RAG), and a local Large Language Model.
+CredWise AI is an explainable AI-based credit-risk decision-support system that combines machine learning, SHAP explainability, Retrieval-Augmented Generation (RAG), and a local Large Language Model.
 
 ## Features
 
@@ -85,9 +85,9 @@ ollama pull llama3.2
 ## Run
 
 ```bash
-streamlit run bankrag_app.py
+streamlit run CredWise_AI_app.py
 ```
 
 ## Disclaimer
 
-BankRAG is an educational and research-oriented decision-support system. Its predictions and generated explanations should not be used as the sole basis for real-world lending decisions. Final decisions require appropriate human review.
+CredWise AI is an educational and research-oriented decision-support system. Its predictions and generated explanations should not be used as the sole basis for real-world lending decisions. Final decisions require appropriate human review.
