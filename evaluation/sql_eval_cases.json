@@ -1,0 +1,6 @@
+[
+  {"query": "How many high-risk applicants are present?"},
+  {"query": "What is the average predicted default probability?"},
+  {"query": "Which applicants have the highest predicted default probability?"},
+  {"query": "Show the distribution of predicted risk."}
+]

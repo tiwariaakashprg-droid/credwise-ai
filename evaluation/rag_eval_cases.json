@@ -1,0 +1,9 @@
+[
+  {"query": "What does the policy say about debt-to-income ratio?", "expected_sections": ["DEBT-TO-INCOME RATIO"]},
+  {"query": "What does the policy say about revolving credit utilization?", "expected_sections": ["CREDIT UTILIZATION"]},
+  {"query": "How should recent credit inquiries be handled?", "expected_sections": ["CREDIT INQUIRIES"]},
+  {"query": "How should delinquencies be reviewed?", "expected_sections": ["DELINQUENCY HISTORY"]},
+  {"query": "What does the policy say about loan amount and installment?", "expected_sections": ["LOAN AMOUNT AND INSTALLMENT"]},
+  {"query": "How should employment history be considered?", "expected_sections": ["EMPLOYMENT HISTORY"]},
+  {"query": "What is the policy on automatic lending decisions?", "expected_sections": ["DECISION POLICY"]}
+]

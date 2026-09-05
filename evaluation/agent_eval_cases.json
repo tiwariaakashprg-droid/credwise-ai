@@ -1,0 +1,7 @@
+[
+  {"query": "How many high-risk applicants are present?", "expected_route": "sql"},
+  {"query": "What is the average predicted default probability?", "expected_route": "sql"},
+  {"query": "What policy applies to DTI?", "expected_route": "policy"},
+  {"query": "Why is this applicant high risk?", "expected_route": "risk"},
+  {"query": "Summarize this applicant for a reviewer.", "expected_route": "decision"}
+]
